@@ -5,7 +5,7 @@
 - Navigate into the repo.
 - Run command `npm install`.
 
-## To access the google sheet you need to setup a GCP project.
+## To access the google sheet data, you need to setup GCP project.
 - Naviate to https://console.cloud.google.com/.
 - Sign in wiith google account.
 - Create a GCP project.
@@ -17,5 +17,5 @@
 - After creating your credentials, download the credentials file remane to `credentials.json`.
 - Place it into the root directory of this project.
 
-## Run the app
-- node .
+## To run the app
+- In your terminal run the command `node .`
