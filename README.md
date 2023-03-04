@@ -1,4 +1,4 @@
-# Fetch Data from google sheet.
+# Fetch data from google sheet.
 
 ## Project setup
 - Clone this repo.
