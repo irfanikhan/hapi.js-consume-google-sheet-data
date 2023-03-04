@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.3.0"
+    "@google-cloud/local-auth": "^2.1.0",
+    "@hapi/hapi": "^21.3.0",
+    "googleapis": "^105.0.0"
   }
 }
